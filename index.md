@@ -1,14 +1,10 @@
 ---
-title: " site.courseName "
+title: "Course name"
 layout: home
-menuItem: " xyz "
+menuItem: "Basic info"
 menuPosition: 1
 ---
-<!--
 <h1>{{ site.courseName }}</h1>
--->
-
-<h1>{{ Computational forensics and AI }}</h1>
 
 <img src="{{ site.baseurl }}/style/header.jpg" width="100%">
 
