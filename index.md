@@ -1,7 +1,7 @@
 ---
-title: "Computational Forensics and AI: 11-788, 11-688, 11-488"
+title: ""
 layout: home
-menuItem: "Overview"
+menuItem: ""
 menuPosition: 1
 ---
 <h1>{{ site.courseName }}</h1>
