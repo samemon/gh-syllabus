@@ -1,10 +1,10 @@
 # configuration
 # fill in the course details
  
-courseName: hslo
+courseName: Computational Forensics and AI
 
 # small title that is at the top of every page
-subtitle: GHS101 course syllabus — spring semester 2022
+subtitle: 11488/11688/11788 — Spring 2020
 
 # baseurl is the same as the name of the repository
 baseurl: /gh-syllabus
