@@ -18,18 +18,16 @@ menuPosition: 1
   - Edit the `something.md` files in the root folder and unit descriptions in `_syllabus/`. -->
 }}-->
 
+With new AI-based technologies that power almost all activities in the digital world, cybercrime is on an unprecedented increase. Forensics is the science of tracing causes, methods and perpetrators from evidence, once a crime has been committed. This course will teach you some of the key technologies that are being used to track cybercriminals.
+
+[You can enroll here](https://your-school-information-system.edu/course-page)
+
 ## Instructor and TAs
 
 **Instructor:**    Rita Singh (rsingh@cs.cmu.edu)
 
 **TAs:**          Shahan Ali Memon (shahan@cs.cmu.edu) \\
                   Bhiksha Raj (bhiksha@cs.cmu.edu)
-
-## Why enroll?
-
-With new AI-based technologies that power almost all activities in the digital world, cybercrime is on an unprecedented increase. Forensics is the science of tracing causes, methods and perpetrators from evidence, once a crime has been committed. This course will teach you some of the key technologies that are helping investigative and law enforcement agencies to police cybercrimes and track cybercriminals.
-
-[You can enroll here](https://your-school-information-system.edu/course-page)
 
 ## Venue and timings for lectures and office hours
 
@@ -55,8 +53,6 @@ There will be 14 weeks of lectures. A different forensic subarea will be covered
 **Week 12:** DeepFakes: generation and tracking (homework 4 released)\\
 **Week 13:** Advanced tracking techniques I\\
 **Week 14:** Advanced tracking techniques II
-
-## Teaching methods
 
 The weekly lectures will be slide-based. Research papers, (accessible) textbook chapters and notes will be provided as links where necessary. Slides for each class will be uploaded on Piazza *after* each class, on the same day as the class.
 Homeworks will be released in class, and explained in a 30 minute recitation at the end of the corresponding class. Attendance is expected and recommended. Lectures will not be recorded.
