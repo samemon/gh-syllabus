@@ -1,7 +1,7 @@
 ---
-title: ""
+title: " Computational forensics"
 layout: home
-menuItem: ""
+menuItem: " xyz "
 menuPosition: 1
 ---
 <h1>{{ site.courseName }}</h1>
