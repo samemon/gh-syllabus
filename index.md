@@ -26,7 +26,7 @@ With new AI-based technologies that power almost all activities in the digital w
 
 **Instructor:**    Rita Singh (rsingh@cs.cmu.edu)
 
-**TAs:**          Shahan Ali Memon (shahan@cs.cmu.edu) \\
+**TAs:**          Shahan Ali Memon (samemon@cs.cmu.edu) \\
                   Bhiksha Raj (bhiksha@cs.cmu.edu)
 
 ## Venue and timings for lectures and office hours
