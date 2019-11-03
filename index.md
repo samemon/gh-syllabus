@@ -34,18 +34,30 @@ There will be 14 weeks of lectures. A different forensic subarea will be covered
 **Schedule of lectures:**
 
 **Week 1:** Introduction
+
 **Week 2:** Network forensics
+
 **Week 3:** Dark Web forensics  (homework 1 released)
+
 **Week 4:** Cryptography
+
 **Week 5:** Image forensics
+
 **Week 6:** Steganography  (homework 2 released)   
+
 **Week 7:** Machine learning in forensics
+
 **Week 8:** Deep learning and AI in forensics
+
 **Week 9:** Text and social media forensics (homework 3 released)
+
 **Week 10:** Video forensics
+
 **Week 11:** Audio forensics
+
 **Week 12:** DeepFakes: generation and tracking (homework 4 released)
-**Week 13:** Advanced tracking techniques I
+
+**Week 13:** Advanced tracking techniques I\\
 **Week 14:** Advanced tracking techniques II
 
 ## Teaching methods
