@@ -8,20 +8,20 @@ menuPosition: 1
 
 <img src="{{ site.baseurl }}/style/header.jpg" width="100%">
 
-%%- This is a **template of a course syllabus microsite** based on Jekyll/Github Pages. (Licensed under MIT: use at will!)
-#- See [a live example of a syllabus](http://jan-martinek.github.io/ktai.peerb/) in the wild.
-#- Clone [the repository](https://github.com/jan-martinek/gh-syllabus) and do your magic! 
-#- Only basic HTML/Markdown and Github knowledge is needed.
-#	- Website contents are in the `gh-pages` branch (read more about [Github Pages](https://pages.github.com)). 
-<!--	- Github automagically generates a nice website at `http://your-username.github.io/repository-name/`. -->
-<!-- - Edit the `something.md` files in the root folder and unit descriptions in `_syllabus/`. -->
+  - This is a **template of a course syllabus microsite** based on Jekyll/Github Pages. (Licensed under MIT: use at will!)
+  - See [a live example of a syllabus](http://jan-martinek.github.io/ktai.peerb/) in the wild.
+  - Clone [the repository](https://github.com/jan-martinek/gh-syllabus) and do your magic! 
+  - Only basic HTML/Markdown and Github knowledge is needed.
+	- Website contents are in the `gh-pages` branch (read more about [Github Pages](https://pages.github.com)). 
+	- Github automagically generates a nice website at `http://your-username.github.io/repository-name/`. -->
+  - Edit the `something.md` files in the root folder and unit descriptions in `_syllabus/`. -->
 
 ## Instructor and TAs
 
-**Instructor:**   Rita Singh (rsingh@cs.cmu.edu)
+**Instructor:**   - Rita Singh (rsingh@cs.cmu.edu)
 
-**TAs:**          Shahan Ali Memon (shahan@cs.cmu.edu) 
-                  Bhiksha Raj (bhiksha@cs.cmu.edu)
+**TAs:**          - Shahan Ali Memon (shahan@cs.cmu.edu) \\
+                  - Bhiksha Raj (bhiksha@cs.cmu.edu)
 
 ## Why enroll?
 
