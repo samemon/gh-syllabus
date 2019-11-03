@@ -6,7 +6,7 @@ menuPosition: 1
 ---
 <h1>{{ site.courseName }}</h1>
 
-<img src="{{ site.baseurl }}/style/header.jpg" width="100%">
+<img src="{{ site.baseurl }}/style/face.png" width="100%">
 
 <!--{{
   - This is a **template of a course syllabus microsite** based on Jekyll/Github Pages. (Licensed under MIT: use at will!)
