@@ -19,7 +19,7 @@ menuPosition: 1
 
 ## Why to enroll?
 
-- There's a good reason.
+- There's a good reason. This is a test.
 - And another one.
 
 [Enroll right now!](https://your-school-information-system.edu/course-page)
