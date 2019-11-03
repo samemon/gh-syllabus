@@ -1,10 +1,14 @@
 ---
-title: " Computational forensics"
+title: " site.courseName "
 layout: home
 menuItem: " xyz "
 menuPosition: 1
 ---
+<!--
 <h1>{{ site.courseName }}</h1>
+-->
+
+<h1>{{ Computational forensics and AI }}</h1>
 
 <img src="{{ site.baseurl }}/style/header.jpg" width="100%">
 
