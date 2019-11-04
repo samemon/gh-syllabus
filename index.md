@@ -20,7 +20,7 @@ menuPosition: 1
 
 With new AI-based technologies that power almost all activities in the digital world, cybercrime is on an unprecedented increase. Forensics is the science of tracing causes, methods and perpetrators from evidence, once a crime has been committed. This course will teach you some of the key technologies that are being used to track cybercriminals.
 
-[You can enroll here](https://your-school-information-system.edu/course-page)
+<!--[You can enroll here](https://your-school-information-system.edu/course-page)-->
 
 ## Instructor and TAs
 
@@ -35,7 +35,7 @@ TDB
 
 
 ## Basic course structure
-There will be 14 weeks of lectures. A different forensic subarea will be covered each week in 2 lectures of 1 hr 20 mins each. There will be one quiz at the end of each week (released Friday midnight, due Sunday midnight) and 4 homeworks in all. Each homework will be due in 3 weeks from the date of release.
+There will be 14 weeks of lectures. A different forensic subarea will be covered each week in 2 lectures of 1 hr 20 mins each. There will be one quiz at the end of each week (released Friday midnight, due Sunday midnight) and 4 homeworks in all. Each homework will be due within 2 weeks from the date of release. 
 
 **Schedule of lectures:**
 
