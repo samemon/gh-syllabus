@@ -4,23 +4,23 @@ layout: page
 menuItem: Course Work and Grading
 menuPosition: 2
 ---
-Everything a student needs to know to not to fail. *Too too.*
+Grading will be based on 2 major components: Weekly quizzes and Bi-weekly assignments
 
-## Requirements
+## Grading Breakdown
 
-Use a nice table to present the basics.
+There are a total of 100 points
 
 <table>
 	<tbody>	
 		<tr>
 			<td class="icon" style="color: red">✎</td>
-			<td><b>Position papers</b><br>1 point</td>
-			<td>Short description.</td>
+			<td><b>Assignnments</b><br>80 points</td>
+			<td>These assignments will be released bi/tri-weekly, and will be 20 points each.</td>
 		</tr>
 		<tr>
 			<td class="icon" style="color: orange">♺</td>
-			<td><b>Attendance</b><br>1 point</td>
-			<td>Short description.</td>
+			<td><b>Quizzes</b><br>20 points</td>
+			<td>There are 12 quizzes in all. We will retain your best 10 scores.</td>
 		</tr>
 	</tbody>
 </table>
