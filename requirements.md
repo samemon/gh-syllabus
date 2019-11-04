@@ -18,7 +18,7 @@ There are a total of 100 points
 			<td>These assignments will be released bi/tri-weekly, and will be 20 points each.</td>
 		</tr>
 		<tr>
-			<td class="icon" style="color: orange">♺</td>
+			<td class="icon" style="color: orange">☑</td>
 			<td><b>Quizzes</b><br>20 points</td>
 			<td>There are 12 quizzes in all. We will retain your best 10 scores.</td>
 		</tr>
