@@ -31,12 +31,12 @@ The four assignments for this course will be based on state-of-the-art technqiue
 ## Assignment I: Navigating through the dark web (20 points)
 This assignment will be based on getting familiar to the dark web using Tor network, and implementing a dark web crawler
 
-## Assignment II: Information Hiding using Steganography (20 points)
+## Assignment II: Information Hiding (Steganography) (20 points)
 This assignment will contain two parts: Decoding and Encoding
 ### Decoding Hidden Messages
 In this part of the assignment, you will "decode" messages from images.
-### Encoding 
-In this part of the assignment, you will "encode" messages using steganography
+### Encoding Messages
+In this part of the assignment, you will "encode" messages based on steganography techniques taught in the class 
 
 ## Assignment III: Profiling Online Actors (20 points)
 In this assignment, you will profile two kinds of online actors: humans, and bots
