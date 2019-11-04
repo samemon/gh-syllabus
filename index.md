@@ -24,10 +24,10 @@ With new AI-based technologies that power almost all activities in the digital w
 
 ## Instructor and TAs
 
-**Instructor:**    Rita Singh (rsingh@cs.cmu.edu)
+**Instructor:**    [Rita Singh](http://mlsp.cs.cmu.edu/people/rsingh/index.html) (rsingh@cs.cmu.edu)
 
-**TAs:**          Shahan Ali Memon (samemon@cs.cmu.edu) \\
-                  Bhiksha Raj (bhiksha@cs.cmu.edu)
+**TAs:**          [Shahan Ali Memon](https://www.linkedin.com/in/shahanmemon/) (samemon@cs.cmu.edu) \\
+                  [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/index.php) (bhiksha@cs.cmu.edu)
 
 ## Venue and timings for lectures and office hours
 
