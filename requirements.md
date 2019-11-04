@@ -43,7 +43,7 @@ In this assignment, you will profile two kinds of online actors: humans, and bot
 ### Identifying Bots
 For this part, you will implement algorithms to tell apart Twitter bots from humans.
 ### Profiling Humans
-For this part, you will be given an image of a person to profile, and will create a detailed forensic report based on their social media presence.
+For this part, you will be given an image of a person to profile, and will create a detailed forensic report based on their online presence.
 
 ## Assignment IV: Deep Fakes (20 points)
 In this assignment, you will identify and generate deep fakes.
