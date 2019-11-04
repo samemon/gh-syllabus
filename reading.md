@@ -10,6 +10,10 @@ You can download all required reading in the [Study materials]({{ site.docsUrl }
 
 # Policies
 
+## Late Policy
+
+Each student will be granted 5 late days to use over the duration of the semester. You can use these late days for any assignment. Using late days will not affect your grade. However, once the late days are used up, submissions will be penalized by 20% for each late day taken. 
+
 ## Academic Integrity
 
 You are expected to comply with the [University Policy on Academic Integrity and Plagiarism](https://www.cmu.edu/policies/). You are allowed to talk with and work with other students on homework assignments. You can share ideas but not code. You should submit your own code. 
@@ -21,9 +25,11 @@ Your course instructor reserves the right to determine an appropriate penalty ba
 
 Attendance in this course is mandatory, except for excused absences for illness, conference travel, religious obligations, etc. Students with more than four unexcused absences will be docked one letter grade.
 
-Take care of yourself! As a student, you may experience a range of challenges that can interfere with learning, such as strained relationships, increased anxiety, substance use, feeling down, difficulty concentrating and/or lack of motivation. All of us benefit from support during times of struggle. There are many helpful resources available on campus and an important part of having a healthy life is learning how to ask for help. Asking for support sooner rather than later is almost always helpful. CMU services are available, and treatment does work. You can learn more about confidential mental health services available on campus at: http://www.cmu.edu/counseling/. Support is always available (24/7) from Counseling and Psychological Services: 412-268-2922.
-
 # Resources
+
+## Take Care of Yourself!
+
+As a student, you may experience a range of challenges that can interfere with learning, such as strained relationships, increased anxiety, substance use, feeling down, difficulty concentrating and/or lack of motivation. All of us benefit from support during times of struggle. There are many helpful resources available on campus and an important part of having a healthy life is learning how to ask for help. Asking for support sooner rather than later is almost always helpful. CMU services are available, and treatment does work. You can learn more about confidential mental health services available on campus at: http://www.cmu.edu/counseling/. Support is always available (24/7) from Counseling and Psychological Services: 412-268-2922.
 
 ## Accommodations for Students with Disabilities:
 
