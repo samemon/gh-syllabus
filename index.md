@@ -41,16 +41,16 @@ There will be 14 weeks of lectures. A different forensic subarea will be covered
 
 **Week 1:** Introduction\\
 **Week 2:** Network forensics\\
-**Week 3:** Dark Web forensics  (homework 1 released)\\
+**Week 3:** Dark Web forensics  (HW1 released)\\
 **Week 4:** Cryptography\\
 **Week 5:** Image forensics\\
-**Week 6:** Steganography  (homework 2 released)\\   
+**Week 6:** Steganography  (HW2 released)\\
 **Week 7:** Machine learning in forensics\\
 **Week 8:** Deep learning and AI in forensics\\
-**Week 9:** Text and social media forensics (homework 3 released)\\
+**Week 9:** Text and social media forensics (HW3 released)\\
 **Week 10:** Video forensics\\
 **Week 11:** Audio forensics\\
-**Week 12:** DeepFakes: generation and tracking (homework 4 released)\\
+**Week 12:** DeepFakes: generation and tracking (HW4 released)\\
 **Week 13:** Advanced tracking techniques I\\
 **Week 14:** Advanced tracking techniques II
 
@@ -59,4 +59,4 @@ Homeworks will be released in class, and explained in a 30 minute recitation at 
 
 ## Enrollment requirements
 
-You must know programming. Basic skills in maths, statistics and probability are expected. 
+You must know programming (preferably Python). Basic skills in maths, statistics and probability are expected. 
