@@ -4,11 +4,11 @@ layout: page
 menuItem: Course Work and Grading
 menuPosition: 2
 ---
-Grading will be based on 2 major components: Weekly quizzes and Bi-weekly assignments
+Grading will be based on 2 major components: Weekly quizzes and Bi-weekly assignments.
 
 # Grading Breakdown
 
-There are a total of 100 points
+There are a total of 100 points:
 
 <table>
 	<tbody>	
@@ -29,26 +29,26 @@ There are a total of 100 points
 The four assignments for this course will be based on state-of-the-art technqiues to track cybercrimes. A brief description of them is as follows:
 
 ## Assignment I: Navigating through the dark web (20 points)
-This assignment will be based on getting familiar to the dark web using Tor network, and implementing a dark web crawler
+This assignment will be based on getting familiar to the dark web using Tor network, and implementing a dark web crawler.
 
 ## Assignment II: Information Hiding (Steganography) (20 points)
-This assignment will contain two parts: Decoding and Encoding
+This assignment will contain two parts: Decoding and Encoding.
 ### Decoding Hidden Messages
 In this part of the assignment, you will "decode" messages from images.
 ### Encoding Messages
-In this part of the assignment, you will "encode" messages based on steganography techniques taught in the class 
+In this part of the assignment, you will "encode" messages based on steganography techniques taught in the class.
 
 ## Assignment III: Profiling Online Actors (20 points)
-In this assignment, you will profile two kinds of online actors: humans, and bots
+In this assignment, you will profile two kinds of online actors: humans, and bots.
 ### Identifying Bots
-For this part, you will implement algorithms to tell apart Twitter bots from humans
+For this part, you will implement algorithms to tell apart Twitter bots from humans.
 ### Profiling Humans
 For this part, you will be given an image of a person to profile, and will create a detailed forensic report based on their social media presence.
 
 ## Assignment IV: Deep Fakes (20 points)
-In this assignment, you will identify and generate deep fakes
+In this assignment, you will identify and generate deep fakes.
 ### Identifying Deep Fakes
-You will implement a classifier to identify deep fakes
+You will implement a classifier to identify deep fakes.
 ### Generating Deep Fakes
 You will use Deep Fake Lab to generate your own deep fakes.
 
