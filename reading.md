@@ -1,5 +1,5 @@
 ---
-title: Reading
+title: Assignmentts
 layout: page
 menuItem: Reading
 menuPosition: 2
@@ -8,7 +8,7 @@ menuPosition: 2
 You can download all required reading in the [Study materials]({{ site.docsUrl }}) at the faculty website.
 {% endif %}
 
-There's something that needs to be told. Maybe.
+There will be four assignments in all. Each assignments will include two components. 
 
 <ol>
 {% assign syllabus = (site.syllabus | sort: "week") %}
