@@ -40,11 +40,18 @@ All the details.
 
 There's a maximum score: 100 points.
 
-- 100—90: A
-- 89—80: B
-- 79—70: C
-- …
-- less than X: F
+- A+ 100% to 94.0%
+- A < 94.0% to 90.0%
+- A- < 90.0% to 87.0%
+- B+ < 87.0% to 84.0%
+- B < 84.0% to 80.0%
+- B- < 80.0% to 77.0%
+- C+ < 77.0% to 74.0%
+- C < 74.0% to 70.0%
+- C- < 70.0% to 67.0%
+- D+ < 67.0% to 64.0%
+- D < 64.0% to 61.0%
+- F < 61.0% to 0.0%
 
 There's [a place where the current grading info is kept]({{ site.gradingUrl }}).
 
