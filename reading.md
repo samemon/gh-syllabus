@@ -1,5 +1,5 @@
 ---
-title: Assignmentts
+title: Assignments
 layout: page
 menuItem: Reading
 menuPosition: 2
