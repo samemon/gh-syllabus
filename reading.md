@@ -1,7 +1,7 @@
 ---
 title: Assignments
 layout: page
-menuItem: Reading
+menuItem: Assignments
 menuPosition: 2
 ---
 {% if site.docsUrl != "" %}
