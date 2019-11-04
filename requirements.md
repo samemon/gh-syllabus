@@ -1,8 +1,8 @@
 ---
-title: Course requirements and grading
+title: Course Work and Grading
 layout: page
-menuItem: Course requirements
-menuPosition: 3
+menuItem: Course Work and Grading
+menuPosition: 2
 ---
 Everything a student needs to know to not to fail. *Too too.*
 
