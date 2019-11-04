@@ -26,14 +26,16 @@ There are a total of 100 points
 </table>
 
 
-### Position papers
+### Academic Integrity
 
-All the details.
+You are expected to comply with the [University Policy on Academic Integrity and Plagiarism](https://www.cmu.edu/policies/). You are allowed to talk with and work with other students on homework assignments. You can share ideas but not code. You should submit your own code. 
+
+Your course instructor reserves the right to determine an appropriate penalty based on the violation of academic dishonesty that occurs. Violations of the university policy can result in severe penalties including failing this course and possible expulsion from Carnegie Mellon University. If you have any questions about this policy and any work you are doing in the course, please feel free to contact your instructor for help.
 
 
 ### Attendance
 
-All the details.
+Attendance in this course is mandatory, except for excused absences for illness, conference travel, religious obligations, etc. Students with more than four unexcused absences will be docked one letter grade.
 
 
 ## Grading
@@ -53,9 +55,3 @@ There's a maximum score: 100 points.
 - D < 64.0% to 61.0%
 - F < 61.0% to 0.0%
 
-There's [a place where the current grading info is kept]({{ site.gradingUrl }}).
-
-
-## What to do in case of illness etc.
-
-Your policies.
