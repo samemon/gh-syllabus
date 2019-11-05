@@ -1,5 +1,5 @@
 ---
-title: "Computational Forensics and AI"
+title: "Course name"
 layout: home
 menuItem: "Basic info"
 menuPosition: 1
