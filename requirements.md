@@ -13,12 +13,12 @@ There are a total of 100 points:
 <table>
 	<tbody>	
 		<tr>
-			<td class="icon" style="color: red">✎</td>
+			<td class="icon" style="color: red">💻</td>
 			<td><b>Assignnments</b><br>80 points</td>
 			<td>These assignments will be released bi/tri-weekly, and will be 20 points each.</td>
 		</tr>
 		<tr>
-			<td class="icon" style="color: orange">☑</td>
+			<td class="icon" style="color: orange">📑</td>
 			<td><b>Quizzes</b><br>20 points</td>
 			<td>There are 12 quizzes in all (released Friday midnight, due Sunday midnight). We will retain your best 10 scores. Each quiz will be worth 2 points, and based on the lectures of the past week.</td>
 		</tr>
