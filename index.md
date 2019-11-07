@@ -31,7 +31,7 @@ With new AI-based technologies that power almost all activities in the digital w
 
 ## Venue and timings for lectures and office hours
 
-Lecture: Monday and Wednesday, 9:00 a.m. - 10:20 a.m. @WEH 5409
+Lecture: Monday and Wednesday, 9:00 a.m. - 10:20 a.m. @WEH 5409 \\
 Office Hours: TBD
 
 ## Basic course structure
