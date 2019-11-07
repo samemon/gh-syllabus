@@ -14,7 +14,7 @@ There are a total of 100 points:
 	<tbody>	
 		<tr>
 			<td class="icon" style="color: red">💻</td>
-			<td><b>Assignnments</b><br>80 points</td>
+			<td><b>Assignments</b><br>80 points</td>
 			<td>These assignments will be released bi/tri-weekly, and will be 20 points each.</td>
 		</tr>
 		<tr>
