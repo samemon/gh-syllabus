@@ -31,8 +31,8 @@ With new AI-based technologies that power almost all activities in the digital w
 
 ## Venue and timings for lectures and office hours
 
-TDB
-
+Lecture: Monday and Wednesday, 9:00 a.m. - 10:20 a.m. @WEH 5409
+Office Hours: TBD
 
 ## Basic course structure
 There will be 14 weeks of lectures. A different forensic subarea will be covered each week in 2 lectures of 1 hr 20 mins each. There will be one quiz at the end of each week (released Friday midnight, due Sunday midnight) and 4 homeworks in all. Each homework will be due within 2 weeks from the date of release. 
