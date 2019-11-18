@@ -52,6 +52,9 @@ You will implement a classifier to identify deep fakes.
 ### Generating Deep Fakes
 You will use Deep Fake Lab to generate your own deep fakes.
 
+## Presentation (only for 11-788):
+Students enrolled in 11-788 will have to fulfill an extra requirement to present on one of the selected topics. These presentation will occur in one of the classes in the mid of the semester.
+
 # Grading
 
 There's a maximum score: 100 points.
