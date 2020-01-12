@@ -22,11 +22,16 @@ With new AI-based technologies that power almost all activities in the digital w
 
 <!--[You can enroll here](https://your-school-information-system.edu/course-page)-->
 
+## Announcements
+
+**NEW (2020/01/12:) ** Due to unforeseen circumstances, there will be NO CLASS on Monday, 13th January 2020. The first class for this course will be on Wednesday 15th January 2020.
+
 ## Instructor and TAs
 
 **Instructor:**    [Rita Singh](http://mlsp.cs.cmu.edu/people/rsingh/index.html) (rsingh@cs.cmu.edu)
 
-**TAs:**          [Shahan Ali Memon](https://www.linkedin.com/in/shahanmemon/) (samemon@cs.cmu.edu) \\
+**TAs:**          [Shahan Ali Memon](http://shahanmemon.com/) (samemon@cs.cmu.edu) \\
+		  [Mahmoud Al-Ismail](http://mahmoudalismail.com/) (bhiksha@cs.cmu.edu)
 		  [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/index.php) (bhiksha@cs.cmu.edu)
 
 ## Venue and timings for lectures and office hours
