@@ -24,7 +24,7 @@ With new AI-based technologies that power almost all activities in the digital w
 
 ## Announcements
 
-**NEW (2020/01/12:)** There will be **NO CLASSES** on Monday, 13th January 2020 or Wednesday, 15th January 2020. Monday, 20th January is a holiday. Therefore, the first class for this course will be on **Wednesday 22nd January 2020** at **9 a.m.** in **Wean Hall Room 5409**.
+**NEW (2020/01/12:)** There will be **NO CLASS** on Monday, 13th January 2020 or Wednesday, 15th January 2020. Monday, 20th January is a holiday. Therefore, the first class for this course will be on **Wednesday 22nd January 2020** at **9 a.m.** in **Wean Hall Room 5409**.
 
 ## Instructor and TAs
 
