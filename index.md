@@ -24,7 +24,7 @@ With new AI-based technologies that power almost all activities in the digital w
 
 ## Announcements
 
-**NEW (2020/01/12:)** Due to unforeseen circumstances, there will be NO CLASS on Monday, 13th January 2020. The first class for this course will be on Wednesday 15th January 2020.
+**NEW (2020/01/12:)** Due to unforeseen circumstances, there will be **NO CLASS** on Monday, 13th January 2020. The first class for this course will be on **Wednesday 15th January 2020** at **9 a.m.** in **Wean Hall Room 5409**.
 
 ## Instructor and TAs
 
