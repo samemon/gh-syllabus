@@ -1,5 +1,5 @@
 ---
-title: "Course name"
+title: "CompFor"
 layout: home
 menuItem: "Basic info"
 menuPosition: 1
