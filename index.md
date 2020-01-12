@@ -30,9 +30,9 @@ With new AI-based technologies that power almost all activities in the digital w
 
 **Instructor:**    [Rita Singh](http://mlsp.cs.cmu.edu/people/rsingh/index.html) (rsingh@cs.cmu.edu)
 
-**TAs:**         <p style="text-align: center;"> [Shahan Ali Memon](http://shahanmemon.com/) (samemon@cs.cmu.edu) </p> \\
-		  [Mahmoud Al-Ismail](http://mahmoudalismail.com/) (mahmoudi@andrew.cmu.edu)
-		  [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/index.php) (bhiksha@cs.cmu.edu)
+**TAs:**         <p style="text-align: left;"> [Shahan Ali Memon](http://shahanmemon.com/) (samemon@cs.cmu.edu) </p> \\
+		 <p style="text-align: center;"> [Mahmoud Al-Ismail](http://mahmoudalismail.com/) (mahmoudi@andrew.cmu.edu) <p> \\
+		<p style="text-align: center;"> [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/index.php) (bhiksha@cs.cmu.edu)
 
 ## Venue and timings for lectures and office hours
 
