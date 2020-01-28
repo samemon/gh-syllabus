@@ -24,7 +24,9 @@ With new AI-based technologies that power almost all activities in the digital w
 
 ## Announcements
 
-**NEW (2020/01/12:)** There will be **NO CLASS** on Monday, 13th January 2020 or Wednesday, 15th January 2020. Monday, 20th January is a holiday. Therefore, the first class for this course will be on **Wednesday 22nd January 2020** at **9 a.m.** in **Wean Hall Room 5409**.
+**(2020/01/12:)** There will be **NO CLASS** on Monday, 13th January 2020 or Wednesday, 15th January 2020. Monday, 20th January is a holiday. Therefore, the first class for this course will be on **Wednesday 22nd January 2020** at **9 a.m.** in **Wean Hall Room 5409**.
+
+**NEW (2020/01/29)** Quiz 1 to be released today.
 
 ## Instructor and TAs
 
@@ -34,6 +36,7 @@ With new AI-based technologies that power almost all activities in the digital w
 		[Shahan Ali Memon](http://shahanmemon.com/) (samemon@cs.cmu.edu)\\
 		 [Mahmoud Al-Ismail](http://mahmoudalismail.com/) (mahmoudi@andrew.cmu.edu)\\
 		 [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/index.php) (bhiksha@cs.cmu.edu)
+		 [Ben Striner](https://www.linkedin.com/in/benjamin-striner-48a9a913/) (bstriner@andrew.cmu.edu)
 
 ## Venue and timings for lectures and office hours
 
@@ -48,18 +51,18 @@ There will be 14 weeks of lectures. A different forensic subarea will be covered
 
 **Week 1:** Introduction\\
 **Week 2:** Network forensics\\
-**Week 3:** Dark Web forensics  (HW1 released)\\
-**Week 4:** Cryptography\\
-**Week 5:** Image forensics\\
-**Week 6:** Steganography  (HW2 released)\\
-**Week 7:** Machine learning in forensics\\
-**Week 8:** Deep learning and AI in forensics\\
-**Week 9:** Text and social media forensics (HW3 released)\\
-**Week 10:** Video forensics\\
-**Week 11:** Audio forensics\\
-**Week 12:** DeepFakes: generation and tracking (HW4 released)\\
-**Week 13:** Advanced tracking techniques I\\
-**Week 14:** Advanced tracking techniques II
+**Week 3:** Dark Web forensics (HW1 released)\\
+**Week 4:** Computer forensics\\
+**Week 5:** Cryptography\\
+**Week 6:** Image forensics\\
+**Week 7:** Steganography  (HW2 released)\\
+**Week 8:** Machine learning in forensics\\
+**Week 9:** Deep learning and AI in forensics (HW3 released)\\
+**Week 10:** Text and social media forensics\\
+**Week 11:** Video forensics (HW4 released)\\
+**Week 12:** Audio forensics\\
+**Week 13:** DeepFakes: generation and tracking\\
+**Week 14:** Advanced tracking techniques\\
 
 The weekly lectures will be slide-based. Research papers, (accessible) textbook chapters and notes will be provided as links where necessary. Slides for each class will be uploaded on Piazza *after* each class, on the same day as the class.
 Homeworks will be released in class, and explained in a 30 minute recitation at the end of the corresponding class. Attendance is expected and recommended. Lectures will not be recorded.
