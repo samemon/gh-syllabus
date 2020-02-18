@@ -28,29 +28,25 @@ There are a total of 100 points:
 # Assignments
 The four assignments for this course will be based on state-of-the-art technqiues to track cybercrimes. A brief description of them is as follows:
 
-## Assignment I: Navigating through the dark web (20 points)
-This assignment will be based on getting familiar to the dark web using Tor network, and implementing a dark web crawler.
+## Assignment I: Network & Deep Web Forensic Analysis (20 points)
+The first part of this assignment will be based on getting familiar with "packet sniffing" and analyzing data network characteristics using the network packet trace (or pcap). The second part with be based on getting familiar with the dark web by analyzing the characteristics or the Tor circuit, crawling and modeling topics around the dark web, and finally getting fammiliar with the Tor hidden services.
 
-## Assignment II: Information Hiding (Steganography) (20 points)
-This assignment will contain two parts: Decoding and Encoding.
-### Decoding Hidden Messages
-In this part of the assignment, you will "decode" messages from images.
-### Encoding Messages
-In this part of the assignment, you will "encode" messages based on steganography techniques taught in the class.
+## Assignment II: Crypto-Stegano Computer Forensics (20 points)
+This assignment will be based on using what you have learnt in class regarding steganography/steganlysis and cryptography to decode and decrypt messages in video, audio and images hidden in computer files.
 
-## Assignment III: Profiling Online Actors (20 points)
-In this assignment, you will profile two kinds of online actors: humans, and bots.
-### Identifying Bots
-For this part, you will implement algorithms to tell apart Twitter bots from humans.
+## Assignment III: Profiling (20 points)
+In this assignment, you will use social media and text analysis to identify characteristics around a Twitter activity (especially related to bots), and then create a forensic profile of an assigned person. This assignment has two parts:
+### Identifying Characteristics of Online Activity
+For this part, you will analyze a twitter traffic snapshot for unusual activity.
 ### Profiling Humans
 For this part, you will be given an image of a person to profile, and will create a detailed forensic report based on their online presence.
 
-## Assignment IV: Deep Fakes (20 points)
-In this assignment, you will identify and generate deep fakes.
-### Identifying Deep Fakes
-You will implement a classifier to identify deep fakes.
-### Generating Deep Fakes
-You will use Deep Fake Lab to generate your own deep fakes.
+## Assignment IV: Deep & Shallow Fakes (20 points)
+In this assignment, you will characterize misinformation. This assignment has two parts:
+### Identifying Misinformation
+Given a scenario, you will identify the defining characteristics of misinformation.
+### Generating and Detecting Deep Fakes
+You will use Deep Fake Lab to generate your own deep fakes, and use that to detect deep fakes.
 
 ## Presentation (only for 11-788):
 Students enrolled in 11-788 will have to fulfill an extra requirement to present on one of the selected topics. These presentations will occur in one of the classes in the mid of the semester.
