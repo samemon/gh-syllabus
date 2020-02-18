@@ -20,7 +20,7 @@ There are a total of 100 points:
 		<tr>
 			<td class="icon" style="color: orange">📑</td>
 			<td><b>Quizzes</b><br>20 points</td>
-			<td>There are 12 quizzes in all (released Friday midnight, due Sunday midnight). We will retain your best 10 scores. Each quiz will be worth 2 points, and based on the lectures of the past week.</td>
+			<td>There are 12 quizzes in all (released Wednesday night/Thursday morning, due Saturday midnight). We will retain your best 10 scores. Each quiz will be worth 2 points, and based on the lectures of the past week.</td>
 		</tr>
 	</tbody>
 </table>
