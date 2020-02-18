@@ -26,7 +26,13 @@ With new AI-based technologies that power almost all activities in the digital w
 
 **(2020/01/12:)** There will be **NO CLASS** on Monday, 13th January 2020 or Wednesday, 15th January 2020. Monday, 20th January is a holiday. Therefore, the first class for this course will be on **Wednesday 22nd January 2020** at **9 a.m.** in **Wean Hall Room 5409**.
 
-**NEW (2020/01/29)** Quiz 1 to be released today.
+**(2020/01/29)** Quiz 1 to be released today.
+
+**(2020/02/06)** Quiz 2 to be released today.
+
+**(2020/02/17)** Homework 1 is out. Due 4th March 2020.
+
+**(2020/02/19)** Quiz 3 to be released today.
 
 ## Instructor and TAs
 
