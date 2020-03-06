@@ -34,6 +34,10 @@ With new AI-based technologies that power almost all activities in the digital w
 
 **(2020/02/19)** Quiz 3 to be released today.
 
+**(2020/03/02)** Homework 1 deadline extended to 7th March 2020.
+
+**(2020/03/04)** Quiz 4 released. Due 6th March 2020.
+
 ## Instructor and TAs
 
 **Instructor:**    [Rita Singh](http://mlsp.cs.cmu.edu/people/rsingh/index.html) (rsingh@cs.cmu.edu)
