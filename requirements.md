@@ -8,28 +8,28 @@ Grading will be based on 2 major components: Weekly quizzes and Bi-weekly assign
 
 # Grading Breakdown
 
-There are a total of 100 points:
+There are a total of 80 points:
 
 <table>
 	<tbody>	
 		<tr>
 			<td class="icon" style="color: red">💻</td>
-			<td><b>Assignments</b><br>80 points</td>
-			<td>These assignments will be released bi/tri-weekly, and will be 20 points each.</td>
+			<td><b>Assignments</b><br>60 points</td>
+			<td>These assignments will be released tri-weekly, and will be 20 points each.</td>
 		</tr>
 		<tr>
 			<td class="icon" style="color: orange">📑</td>
 			<td><b>Quizzes</b><br>20 points</td>
-			<td>There will be about 10-12 quizzes in all (released Wednesday night/Thursday morning, due Saturday midnight). We will drop your two lowest quizzes. Each quiz will be worth equal points, and based on the lectures of the past week.</td>
+			<td>There will be about 10-12 quizzes in all. We will drop your two lowest quizzes. Each quiz will be worth equal points, and based on the lectures of the past week.</td>
 		</tr>
 	</tbody>
 </table>
 
 # Assignments
-The four assignments for this course will be based on state-of-the-art technqiues to track cybercrimes. A brief description of them is as follows:
+The three assignments for this course will be based on state-of-the-art technqiues to track cybercrimes. A brief description of them is as follows:
 
 ## Assignment I: Network & Deep Web Forensic Analysis (20 points)
-The first part of this assignment will be based on getting familiar with "packet sniffing" and analyzing data network characteristics using the network packet trace (or pcap). The second part with be based on getting familiar with the dark web by analyzing the characteristics or the Tor circuit, crawling and modeling topics around the dark web, and finally getting fammiliar with the Tor hidden services.
+The first part of this assignment will be based on getting familiar with "packet sniffing" and analyzing data network characteristics using the network packet trace This assignment will be based on getting familiar with network and deep web forensics. There are six parts to this homework. The first three parts will be based on “packet sniffing” and analyzing data network characteristics using the network packet trace (or pcap), and understanding to identify different network threats and vulnerabilities. The last three parts with be based on getting familiar with the dark web by analyzing the characteristics of the Tor circuit, crawling and modeling topics around the dark web, and finally getting familiar with the Tor hidden services. The six parts are briefly described below:
 
 ## Assignment II: Crypto-Stegano Computer Forensics (20 points)
 This assignment will be based on using what you have learnt in class regarding steganography/steganlysis and cryptography to decode and decrypt messages in video, audio and images hidden in computer files.
@@ -47,9 +47,6 @@ In this assignment, you will characterize misinformation. This assignment has tw
 Given a scenario, you will identify the defining characteristics of misinformation.
 ### Generating and Detecting Deep Fakes
 You will use Deep Fake Lab to generate your own deep fakes, and use that to detect deep fakes.
-
-## Presentation (only for 11-788):
-Students enrolled in 11-788 will have to fulfill an extra requirement to present on one of the selected topics. These presentations will occur in one of the classes in the mid of the semester.
 
 # Grading
 
